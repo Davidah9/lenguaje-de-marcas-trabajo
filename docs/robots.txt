@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.misitio.com/sitemap.xml
