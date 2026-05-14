@@ -12,7 +12,7 @@
     <!ELEMENT correcta (#PCDATA)>
     <!ELEMENT explicacion (#PCDATA)>
 ]>
-<?xml-stylesheet type="text/xsl" href="..\fin de curso\formulario.xslt"?>
+<?xml-stylesheet type="text/xsl" href="..\docs\formulario.xslt"?>
 <Import name="test_buscadores"
 	query="SELECT `id`, `pregunta`, `opcion_a`, `opcion_b`, `opcion_c`, `correcta`, `explicacion` FROM `proyecto_buscadores`.`test_buscadores`;
 ">
